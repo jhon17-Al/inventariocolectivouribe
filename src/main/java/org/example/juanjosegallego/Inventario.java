@@ -23,9 +23,20 @@ public class Inventario {
         System.out.println("3️⃣  Modificar los datos de una prenda ✏️");
         System.out.println("4️⃣  Eliminar una prenda del sistema 🗑️");
         System.out.println("5️⃣  Presiona 5 para SALIR ❌");
+        System.out.println("digite una opcion.");
+        menuOption=keyEntry.nextInt();
 
         while(menuOption!=5){
-            System.out.println("oe");
+            try {
+                if (){}
+                    else () {}
+                    else () {}
+                    else () {}
+                    else () {}
+
+            } catch (Exeption error){
+                System.out.println("Cuidado. Debes ingresar un número.");
+            }
         }
 
         //PROCESO 2
